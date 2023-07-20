@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IND3</string>
+    <string name="first">Primer Num</string>
+    <string name="second">Segundo Num</string>
+    <string name="calc">Calculator</string>
+    <string name="add">SUMAR</string>
+    <string name="divide">DIVIDIR</string>
+    <string name="multiply">MULTIPLICAR</string>
+    <string name="subtract">RESTAR</string>
+    <string name="exit">SALIR</string>
+</resources>
